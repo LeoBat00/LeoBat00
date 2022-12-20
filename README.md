@@ -1,9 +1,10 @@
 
 <div align="center"> 
-</div>  
- 
 
-### E ai, bora trocar uma ideia ? ☕ 
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=50,90,32,40,20&text=Front-End%" />
+</div>
+ 
+### 
 <div align="left">
  <a href = "mailto:@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -26,7 +27,6 @@
   <img align="center" alt="Leo-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
  
   ##
-
 
 
 

@@ -1,9 +1,7 @@
-## Olá :) 
 
-<div align="center">
-
+<div align="center"> 
 </div>  
-  
+ 
 
 ### E ai, bora trocar uma ideia ? ☕ 
 <div align="left">
@@ -28,11 +26,7 @@
   <img align="center" alt="Leo-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
  
   ##
- <div aligh="center">
-     <a href="https://github.com/LeoBat00"> 
-        <img src="https://user-images.githubusercontent.com/104659313/208557481-ae80c893-edf3-4b12-b078-82e7aeb8fe5d.gif" width="1300px" height="300px">  
-    
-  </div>
+
 
 
 

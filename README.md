@@ -1,4 +1,4 @@
-## Bem vindo, fica um pouquinho por aqui :)
+## Olá :) 
 
 <div align="center">
 

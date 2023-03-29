@@ -7,9 +7,10 @@
 # Welcome to my profile. :)
 Hey there what's up? My name is **Leo** and I'm a front-end dev from Brazil 🇧🇷. 
 
-I'm addicted to technology and music, and I'm always looking for challenges to become a better developer. Recently, I've been studying **React.Js** and **Kotlin** to expand my skill set. Check out my finished and unfinished projects and if you have any feedback, hit me up! Cheers!
+I'm addicted to technology and music, and I'm always looking for challenges to become a better developer. Recently, I've been studying **React.Js** and **Kotlin** to expand my skill set. Check out my finished and unfinished projects and if you have any feedback, hit me up! Cheers! ✨
 
-### 
+###
+
 <div align="left">
  <a href = "LeonardoMTBat:@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
@@ -19,6 +20,17 @@ I'm addicted to technology and music, and I'm always looking for challenges to b
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
  </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=LeoBat00" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&username=LeoBat00" height="200" alt="languages graph"  />
+</div>
+
+###
+
+<h2 align="left">🔨 Languages and Tools:</h2>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

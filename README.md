@@ -1,7 +1,6 @@
 
 <div align="center"> 
-https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=1,2,3,0,0&text=Front-End%
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=1,2,3,0,0&text=Front-End%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=50,90,32,40,20&text=Front-End%" />
 </div>
 
 # Welcome to my profile. :)

@@ -36,18 +36,20 @@ I'm addicted to technology and music, and I'm always looking for challenges to b
 
 ###
 <div style="display: inline_block"><br>
+
   <img align="center" alt="Leo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Leo-React" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  
+  <img align="center" alt="Leo-PS" height="30" width="40" src="https://github.com/LeoBat00/LeoBat00/assets/104659313/6f872056-ed34-41b9-afc3-e020af7dac26" />
+
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  
+
   <img align="center" alt="Leo-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
 
-  <img align="center" alt="Leo-PS" height="30" width="30" src="https://github.com/LeoBat00/LeoBat00/assets/104659313/232e300d-5af0-459a-8855-5a071fac25aa" />
-  <img align="center" alt="Leo-PS" height="30" width="30" src="https://github.com/LeoBat00/LeoBat00/assets/104659313/c2511752-b108-4fbd-ae42-4707ddac7bfe" />
- 
+  <img align="center" alt="Leo-PA" height="30" width="30" src="https://github.com/LeoBat00/LeoBat00/assets/104659313/232e300d-5af0-459a-8855-5a071fac25aa" />
+  <img align="center" alt="Leo-PA" height="30" width="30" src="https://github.com/LeoBat00/LeoBat00/assets/104659313/c2511752-b108-4fbd-ae42-4707ddac7bfe" />
+
   ##
 
 

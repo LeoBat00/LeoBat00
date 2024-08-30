@@ -1,14 +1,10 @@
 
 <div align="center"> 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=50,90,32,40,20&text=Front-End%" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=header&color=gradient&customColorList=50,90,32,40,20&text=%" />
 </div>
 
 # Welcome to my profile. :)
-Hey there what's up? My name is **Leo** and I'm a front-end dev from Brazil 🇧🇷. 
-
-I'm addicted to technology and music, and I'm always looking for challenges to become a better developer. Recently, I've been studying **React.Js** and **Kotlin** to expand my skill set. Check out my finished and unfinished projects and if you have any feedback, hit me up! Cheers! ✨
-
-###
+Hey! I’m **Leo**, a **full-stack developer** from **Brazil** 🇧🇷. Currently, I’m a **full-stack dev intern** at [Unifor](https://www.unifor.br) and a Computer Science student. Check out my projects, and if you’ve got any feedback, I’d love to hear it. 👋
 
 <div align="left">
  <a href = "LeonardoMTBat:@gmail.com">

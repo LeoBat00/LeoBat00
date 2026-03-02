@@ -4,7 +4,9 @@
 </div>
 
 # Welcome to my profile. :)
-Hey! I’m **Leo**, a **full-stack developer** from **Brazil** 🇧🇷. Currently, I’m a **full-stack dev intern** at [Dataprev](https://www.dataprev.gov.br/) and a Computer Science student. Check out my projects, and if you’ve got any feedback, I’d love to hear it. 👋
+Hey! I’m **Leo**, a **full-stack developer** from **Brazil** 🇧🇷. I’m a **Computer Science graduate** and currently working as a **full-stack developer intern** at [Dataprev](https://www.dataprev.gov.br/). I’m also pursuing a **degree in Artificial Intelligence**. 
+
+I’m especially interested in **accessible UI/UX design** and **web accessibility**, and I enjoy building interfaces that are both functional and inclusive. Feel free to explore my projects, and if you’ve got any feedback, I’d love to hear it. 👋
 
 <div align="left">
  <a href = "LeonardoMTBat:@gmail.com">
